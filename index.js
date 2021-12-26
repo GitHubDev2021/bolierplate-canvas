@@ -9,7 +9,6 @@ let height= canvas.height= window.innerHeight;
 // Object
 
 
-
 // Animation loop
 
 let fps = 60;
